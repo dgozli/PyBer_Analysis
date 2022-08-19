@@ -10,6 +10,10 @@ Results are summarized in the table below. The number of total rides and total d
 
 However, when we examined the average fare per ride and the average fare per driver, we found the reverse pattern. Namely, the average fare (both per driver and per ride) was largest for rural cities and smallest for urban cities. 
 
+![Table 1](https://user-images.githubusercontent.com/105169537/185708043-bdb7dd93-d4c0-4e12-8bb6-c47dc409886c.png)
+
+![Figure 1](https://user-images.githubusercontent.com/105169537/185708003-8e7ecac1-3b41-4580-93fa-72b8da028482.png)
+
 ## Summary
 
 Despite the larger number of total rides and total drivers, the average fare per ride (or per driver) was smaller for urban cities, and largest for rural cities. Nevertheless, the largest portion of total fares comes from urban cities, and the smallest portion comes from rural cities. 
